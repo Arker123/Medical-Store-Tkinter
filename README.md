@@ -6,11 +6,11 @@ The application has a user-friendly interface that is built using Tkinter, a Pyt
 
 Some of the key features of this Medical Store Management System include:
 
-    Inventory Management: The application allows the user to manage the inventory by adding, updating, and deleting items. The user can also view the current stock level, and expiry date of the products.
+Inventory Management: The application allows the user to manage the inventory by adding, updating, and deleting items. The user can also view the current stock level, and expiry date of the products.
 
-    Sales Management: The system allows the user to manage sales by creating new sales orders, updating existing orders, and deleting orders.
+Sales Management: The system allows the user to manage sales by creating new sales orders, updating existing orders, and deleting orders.
 
-    User Management: The system allows the user to manage different user accounts with different levels of access.
+User Management: The system allows the user to manage different user accounts with different levels of access.
 
 The application works by connecting to the MySQL database, which stores all the data related to inventory, sales, and users. The application provides a graphical user interface for the user to interact with the database and perform various actions.
 
